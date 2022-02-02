@@ -63,6 +63,10 @@ body.home div.change li{
 	line-height: 1.5;
 }
 
+body.home div.change p{
+	margin-bottom: 0.5em;
+}
+
 body.home div.pic.lecturer{
 	width: 300px;
 	float: none;

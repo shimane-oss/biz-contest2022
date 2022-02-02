@@ -76,12 +76,10 @@ body.award div.doc dl.compact ul.list li{
 }
 
 body.award div.result{
-	width: 570px;
 	overflow: hidden;
 }
 
 body.award div.result div.section{
-	width: 270px;
 	margin-bottom: 0;
 }
 
