@@ -82,3 +82,9 @@ body.home div.deadline{
 	margin-top: 20px;
 	margin-bottom: 0;
 }
+
+body.home h2.subtitle{
+	font-size: 115%;
+	font-weight: bold;
+	color: #E0794E;
+}

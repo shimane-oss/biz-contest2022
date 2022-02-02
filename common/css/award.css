@@ -63,6 +63,10 @@ body.award div.doc dl.compact dd{
 	_margin-left: 6em;
 }
 
+body.award div.doc dl.compact dd em{
+	color: #E0794E;
+}
+
 body.award div.doc dl.compact ul{
 	margin-bottom: -0.5em;
 }
