@@ -20,6 +20,13 @@
 	<script type="text/javascript" src="/biz-contest2022/common/js/jquery.js"></script>
 	<script type="text/javascript" src="/biz-contest2022/common/js/rollover.js"></script>
 	<script type="text/javascript" src="/biz-contest2022/common/js/jquery.lightbox-0.5.js"></script>
+	<script type="text/javascript">
+		$(function() {
+			var width = 350
+			if(window.innerWidth > 375) width = window.innerWidth * 0.6
+			$('.pic a').lightBox({ maxWidth: width });
+		});
+	</script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2C333B16GZ"></script>
   <script>
